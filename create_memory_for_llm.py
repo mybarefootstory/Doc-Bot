@@ -32,8 +32,8 @@ def load_pdf_files(data_path):
 # Load documents from the specified directory
 documents = load_pdf_files(data_path=DATA_PATH)
 # Uncomment to print the number of pages and a specific document
-# print("Length of PDF pages: ", len(documents))
-# print(documents[10])
+print("Length of PDF pages: ", len(documents))
+print(documents[10])
 
 # Step 2: Create Chunks
 def create_chunks(extracted_data):
