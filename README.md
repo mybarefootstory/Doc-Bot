@@ -10,7 +10,6 @@ Doc-Bot is an intelligent document-based chatbot designed to provide accurate an
 - [Features](#features)
 - [Future Scope](#future-scope)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
